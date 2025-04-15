@@ -1,0 +1,2 @@
+[console_scripts]
+pipreqs-wrapper = pipreqs_wrapper.converter:main

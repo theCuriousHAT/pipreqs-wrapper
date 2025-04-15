@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+pipreqs_wrapper/__init__.py
+pipreqs_wrapper/__main__.py
+pipreqs_wrapper/converter.py
+pipreqs_wrapper/utils.py
+pipreqs_wrapper.egg-info/PKG-INFO
+pipreqs_wrapper.egg-info/SOURCES.txt
+pipreqs_wrapper.egg-info/dependency_links.txt
+pipreqs_wrapper.egg-info/entry_points.txt
+pipreqs_wrapper.egg-info/requires.txt
+pipreqs_wrapper.egg-info/top_level.txt
