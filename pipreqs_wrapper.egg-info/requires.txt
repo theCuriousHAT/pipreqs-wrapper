@@ -1,0 +1,4 @@
+pipreqs
+nbconvert
+nbformat
+nbconvert[extra]

@@ -16,6 +16,7 @@ setup(
         "pipreqs",
         "nbconvert",
         "nbformat",
+        'nbconvert[extra]',
     ],
     entry_points={
     'console_scripts': [
