@@ -7,9 +7,3 @@
 - Runs `pipreqs` to extract package dependencies.
 - Optionally deletes temporary `.py` files after extracting dependencies.
 
-## Installation
-
-To install `pipreqs-wrapper`, simply use pip:
-
-```bash
-pip install pipreqs-wrapper
