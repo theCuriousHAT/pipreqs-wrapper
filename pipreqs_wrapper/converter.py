@@ -59,8 +59,7 @@ def process_ipynb_files(root_dir, keep_py=False):
                     generated_py_files.append(py_path)
 
     if not generated_py_files:
-        logging.warning("No valid .ipynb files found to convert.")
-        return False
+        logging.info("No valid .ipynb files found to convert. Looking for existing .py files to generate requirements.")
 
     run_pipreqs(root_dir)
 
